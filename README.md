@@ -56,4 +56,4 @@ This policy is effective as of 2025-03-17
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Вадим Заволока <vadim_zavoloka@icloud.com>
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <vadim_zavoloka@icloud.com>
