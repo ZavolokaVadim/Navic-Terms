@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Vadim Zavoloka built the "Shopping list 01"  app. This SERVICE is provided by Vadim Zavoloka  is intended for use as is.
+Vadim Zavoloka built the  Shopping list 01  app. This SERVICE is provided by Vadim Zavoloka  is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
